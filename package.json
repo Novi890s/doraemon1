@@ -2,7 +2,7 @@
 	"name": "xiao",
 	"version": "105.0.0",
 	"description": "Your personal server companion.",
-	"main": "Xiao.js",
+	"main": "mybot.js",
 	"scripts": {
 		"test": "npm run lint",
 		"lint": "eslint . --ext .js --ext .json",
